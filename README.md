@@ -1,9 +1,8 @@
-# RMIT-Assignment-1
+# RMIT-Assignment-1 My Presentation Web Site
 Assignment 1 Repository
 
 <html>
 
-<title> My First WebSite  </title>
 
 <body>
 
